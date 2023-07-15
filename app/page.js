@@ -1,7 +1,7 @@
 import React from 'react'
 import Home from './Components/Home'
 import Reducer from './Components/Reducer'
-import TodoApp from './Components/ChatGPT'
+import TodoApp from './Components/ReducerHook'
 
 const page = () => {
   return (
